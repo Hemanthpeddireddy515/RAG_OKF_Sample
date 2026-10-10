@@ -1,0 +1,27 @@
+Python Programming
+
+Python is a high-level programming language.
+
+A variable is used to store data.
+
+A function is a reusable block of code that performs a specific task.
+
+Machine Learning
+
+Machine learning is a branch of artificial intelligence.
+
+Supervised learning uses labeled training data.
+
+Unsupervised learning finds patterns in unlabeled data.
+
+Retrieval-Augmented Generation
+
+RAG stands for Retrieval-Augmented Generation.
+
+RAG retrieves relevant information from external documents
+and provides that information to a language model.
+
+Embeddings represent text as numerical vectors.
+
+A vector database stores embeddings and helps retrieve
+semantically similar information.
